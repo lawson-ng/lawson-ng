@@ -3,7 +3,8 @@
 I am a passionate JS dev.
 
 📝 I regularly write articles on https://www.coderlight.dev
-- 📫 How to reach me: abraham.lawson.dev@gmail.com
+
+📫 How to reach me: abraham.lawson.dev@gmail.com
 
 <!--
 **AbrahamLawson/AbrahamLawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

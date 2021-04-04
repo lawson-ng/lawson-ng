@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate JS dev.
+I am a `Software engineer`
 
 📝 I regularly write articles on https://www.coderlight.dev
 

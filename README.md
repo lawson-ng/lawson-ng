@@ -6,7 +6,8 @@ I am a passionate JS dev.
 
 📫 How to reach me: abraham.lawson.dev@gmail.com
 
-<img src="https://user-images.githubusercontent.com/72881474/113503143-1d885000-955a-11eb-8985-6c2e742b3749.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/72881474/113516409-59480780-95a4-11eb-9ba5-12190895a2fe.gif" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/72881474/113516443-7ed51100-95a4-11eb-9673-868e5f936f0c.gif" width="50%" height="50%">
 
 
 <!--
@@ -23,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

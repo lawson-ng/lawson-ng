@@ -1,4 +1,3 @@
-![states-of-a-programmer](https://user-images.githubusercontent.com/72881474/113503143-1d885000-955a-11eb-8985-6c2e742b3749.png)
 ### Hi there 👋
 
 I am a passionate JS dev.
@@ -6,6 +5,9 @@ I am a passionate JS dev.
 📝 I regularly write articles on https://www.coderlight.dev
 
 📫 How to reach me: abraham.lawson.dev@gmail.com
+
+<img src="https://user-images.githubusercontent.com/72881474/113503143-1d885000-955a-11eb-8985-6c2e742b3749.png" width="50%" height="50%">
+
 
 <!--
 **AbrahamLawson/AbrahamLawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

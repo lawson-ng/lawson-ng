@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I am a `Software engineer`
-
+<a href="https://dev.to/abrahamlawson">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="https://dev.to/abrahamlawson" width="48">
+</a>
 
 📝 I regularly write articles on https://www.coderlight.dev
 

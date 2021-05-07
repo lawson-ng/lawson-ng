@@ -13,14 +13,7 @@ I am a `Software engineer`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamlawson&theme=ayu-mirage)
 
-
-
-| <img src="https://user-images.githubusercontent.com/72881474/113516409-59480780-95a4-11eb-9ba5-12190895a2fe.gif" width="50%" height="50%">  | <img src="https://user-images.githubusercontent.com/72881474/113516443-7ed51100-95a4-11eb-9673-868e5f936f0c.gif" width="50%" height="50%"> |
-|---|---|
-
-
-
-
+<img src="https://images.hive.blog/0x0/https://steemitimages.com/DQmUGhsqqkJZHsaybDmvpSPcwtf8Egb4NGRbJGXFhFLCFyV/OwZkUVO.gif" width="50%" height="50%"> 
 
 <!--
 **AbrahamLawson/AbrahamLawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

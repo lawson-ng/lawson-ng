@@ -11,7 +11,7 @@ I am a `Software engineer`
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="https://dev.to/abrahamlawson" width="48">
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamlawson&show_icons=true&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamlawson&theme=ayu-mirage)
 
 
 

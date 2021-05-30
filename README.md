@@ -9,7 +9,7 @@
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="https://dev.to/abrahamlawson" width="48">
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamlawson&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abraham-lawson&theme=ayu-mirage)
 
 <img src="https://images.hive.blog/0x0/https://steemitimages.com/DQmUGhsqqkJZHsaybDmvpSPcwtf8Egb4NGRbJGXFhFLCFyV/OwZkUVO.gif" width="50%" height="50%"> 
 

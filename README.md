@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-📝 I regularly write articles on https://www.coderlight.dev
+📝 I regularly write articles on https://lawson-nguyen.vercel.app
 
 📫 How to reach me: abraham.lawson.dev@gmail.com
 

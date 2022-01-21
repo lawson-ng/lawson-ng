@@ -1,21 +1,10 @@
-### Hi there 👋
-
-
-📝 I regularly write articles on https://lawson-nguyen.vercel.app
-
-📫 How to reach me: abraham.lawson.dev@gmail.com
+📫 How to reach me: 
+- emai: abraham.lawson.dev@gmail.com
+- website: https://lawson-nguyen.vercel.app
 
 <a href="https://dev.to/abrahamlawson">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="https://dev.to/abrahamlawson" width="48">
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawson-ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawson-ng&theme=ayu-mirage)
-
-<img src="https://images.hive.blog/0x0/https://steemitimages.com/DQmUGhsqqkJZHsaybDmvpSPcwtf8Egb4NGRbJGXFhFLCFyV/OwZkUVO.gif" width="50%" height="50%"> 
-
 <!--
 **AbrahamLawson/AbrahamLawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

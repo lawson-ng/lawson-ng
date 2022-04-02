@@ -1,6 +1,7 @@
 📫 How to reach me: 
 - emai: abraham.lawson.dev@gmail.com
 - website: https://lawson-nguyen.vercel.app
+- Fb: https://www.facebook.com/abraham.lawson.dev/
 
 <a href="https://dev.to/abrahamlawson">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="https://dev.to/abrahamlawson" width="48">

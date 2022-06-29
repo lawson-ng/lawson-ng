@@ -3,10 +3,6 @@
 - website: https://lawson-nguyen.vercel.app
 - Facebook: https://www.facebook.com/abraham.lawson.dev/
 
-<a href="https://www.facebook.com/abraham.lawson.dev/">
-<img src="https://png.pngtree.com/png-clipart/20180515/ourmid/pngtree-facebook-logo-facebook-icon-png-image_3566127.png" width="65">
-</a>
-
 <a href="https://dev.to/abrahamlawson">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="https://dev.to/abrahamlawson" width="48">
 </a>

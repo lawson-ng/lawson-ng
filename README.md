@@ -2,7 +2,7 @@
 
 📫 How to reach me: 
 - Email: abraham.lawson.dev@gmail.com
-- [Website](https://lawson-nguyen.vercel.app)
+- [Website](https://lawson-ng.com)
 - [Instagram](https://www.instagram.com/lawson_nguyen/)
 
 

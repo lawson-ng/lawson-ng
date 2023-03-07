@@ -5,7 +5,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newit-trungnt&show_icons=true&theme=radical)
+![lawson-ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=newit-trungnt&show_icons=true&theme=radical)
 
 
 

@@ -11,5 +11,5 @@
 
 📫 How to reach me: 
 - Email: abraham.lawson.dev@gmail.com
-- [Website](https://lawson-ng.com)
+- [Website](https://lawson-nguyen.com)
 - [Instagram](https://www.instagram.com/lawson_nguyen/)

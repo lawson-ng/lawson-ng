@@ -1,11 +1,6 @@
 
 <a href="https://app.daily.dev/lawson"><img src="https://api.daily.dev/devcards/v2/8Gbb86fJ4Vh67Qag1DYoH.png?type=wide&r=q0o" width="652" alt="lawson-ng's Dev Card"/></a>
 
-
-<img src="https://github.com/lawson-ng/lawson-ng/blob/master/devcard.svg" width="300"  align='right' width="400" alt="lawson-ng"/>
-
-
-
 ![lawson-ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=newit-trungnt&show_icons=true&theme=radical)
 
 
